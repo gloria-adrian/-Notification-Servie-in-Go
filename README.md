@@ -1,1 +1,1 @@
-# -Notification-Servie-in-Go
+# -Notification-Service-in-Go
